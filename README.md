@@ -1,3 +1,5 @@
+El proposito de este repositorio es para que todos tomen como ejemplo este readme y lo copien a sus proyectos y empiecen a tener un excelente readme de ahora en adelante.
+
 # Nombre Proyecto 📋
 
 Breve Descripción del proyecto y puedes agregar una imagen 😀
